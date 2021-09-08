@@ -1,0 +1,27 @@
+#container{
+    background-color: darksalmon;
+}
+#container div{
+    height: 200px;
+    width: 200px;
+}
+
+.first{
+    background-color: aqua;
+}
+
+.second{
+    background-color: #0f0ce7;
+}
+
+.third{
+    background-color: hsl(350, 90%, 48%);
+}
+
+.second{
+    position: fixed;
+}
+
+.abc{
+    background-color: fuchsia;
+}
